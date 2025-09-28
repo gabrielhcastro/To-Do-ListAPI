@@ -29,3 +29,4 @@ api-todo/
 ```bash
 git clone https://github.com/gabrielhcastro/To-Do-ListAPI.git
 cd To-Do-ListAPI
+pip install -r requirements.txt 
